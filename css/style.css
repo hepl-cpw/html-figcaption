@@ -1,0 +1,16 @@
+figure {
+   display:inline-block;
+   -moz-box-shadow: 0px 0px 20px #aaa;
+   -webkit-box-shadow: 0px 0px 20px #aaa;
+   box-shadow: 0px 0px 20px #aaa;
+   padding:2em;
+ }
+ figcaption {
+text-align:center;
+margin:1em 0 0 0;
+color:#666;
+font-style:italic;
+font-family: Georgia, Palatino, Palatino Linotype, Times, Times New
+ Roman, serif;
+   font-size:1.3em;
+ }
